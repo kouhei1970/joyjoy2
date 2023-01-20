@@ -1,7 +1,8 @@
-#include <stdio.h>
-
 #ifndef RC_HPP
 #define RC_HPP
+
+#include <stdio.h>
+#include <stdint.h>
 
 #define RUDDER 0
 #define ELEVATOR 1

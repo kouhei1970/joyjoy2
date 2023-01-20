@@ -1,7 +1,6 @@
 #include <Arduino.h>
 #include <M5Atom.h>
 #include "rc.hpp"
-#include <stdint.h>
 
 void setup() {
   // put your setup code here, to run once:

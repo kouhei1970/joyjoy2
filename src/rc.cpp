@@ -2,7 +2,6 @@
 #include "rc.hpp"
 #include <WiFi.h>
 #include <esp_now.h>
-#include <stdint.h>
 
 //esp_now_peer_info_t slave;
 
